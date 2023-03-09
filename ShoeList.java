@@ -6,15 +6,6 @@ package SPoudel_Project01;
 //Purpose: Use arrays to create ArrayList implementation
 
 import java.lang.Math;
-import java.util.Random;
-
-//Sujan Poudel and Dev Wahi
-//03/06/23
-//Period 1 ADSB
-//Purpose: Use arrays to create ArrayList implementation
-
-import java.lang.Math;
-import java.util.Random;
 
 class ShoeList {
 	private Shoe[] data;
